@@ -22,17 +22,21 @@ This is an interactive command-line **Hangman** game built in Bash. It supports 
 ## Setup
 1. Clone or download the repository.
 2. Ensure the following directory structure exists:
+```bash
     ./data/  
       wordlist.txt  
       hangman_user_data.txt  
       high_score.txt  
+```
 3. Populate `wordlist.txt` with words, one per line.
 
 ---
 
 ## How to Play
 1. Run the game script:
+```
     ./hangman.sh  
+```
 2. Select a player:
     - Continue with an existing player.
     - Create a new player.
