@@ -32,7 +32,7 @@ This is an interactive command-line **Hangman** game built in Bash. It supports 
 
 ## How to Play
 1. Run the game script:
-    ./hangman_game.sh  
+    ./hangman.sh  
 2. Select a player:
     - Continue with an existing player.
     - Create a new player.
