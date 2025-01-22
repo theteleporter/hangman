@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Wordlist path
-WORDLIST="$HOME/games/data/wordlist.txt"
-USER_DATA_FILE="$HOME/games/hangman/hangman_user_data.txt"
-HIGH_SCORE_FILE="$HOME/games/hangman/high_score.txt"
+WORDLIST="./data/wordlist.txt"
+USER_DATA_FILE="./data/hangman_user_data.txt"
+HIGH_SCORE_FILE="./data/high_score.txt"
 
 # Check if wordlist exists
 if [[ ! -f "$WORDLIST" ]]; then

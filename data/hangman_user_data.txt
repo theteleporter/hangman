@@ -1,0 +1,266 @@
+Time taken: 74
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 
+Correct words: 2
+Wrong words: 6
+Score: -10
+Guesses: 8
+---
+Time taken: 48
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 48
+Correct words: 3
+Wrong words: 6
+Score: 0
+Guesses: 9
+---
+Time taken: 46
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 
+Correct words: 3
+Wrong words: 6
+Score: 0
+Guesses: 9
+---
+Name: The Teleporter
+Time taken: 29
+Correct words: 4
+Wrong words: 6
+Score: 10
+Guesses: 10
+---
+Time taken: 463
+Correct words: 4
+Wrong words: 6
+Score: 10
+Guesses: 10
+---
+Time taken: 
+Correct words: 2
+Wrong words: 6
+Score: -10
+Guesses: 8
+---
+Time taken: 
+Correct words: 3
+Wrong words: 6
+Score: 0
+Guesses: 9
+---
+Time taken: 
+Correct words: 8
+Wrong words: 5
+Score: 55
+Guesses: 13
+---
+Time taken: 104
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 155
+Correct words: 10
+Wrong words: 3
+Score: 85
+Guesses: 13
+---
+Time taken: 267
+Correct words: 8
+Wrong words: 5
+Score: 55
+Guesses: 13
+---
+Time taken: 70
+Correct words: 8
+Wrong words: 1
+Score: 75
+Guesses: 9
+---
+Time taken: 120
+Correct words: 7
+Wrong words: 6
+Score: 40
+Guesses: 13
+---
+Time taken: 101
+Correct words: 10
+Wrong words: 4
+Score: 80
+Guesses: 14
+---
+Time taken: 43
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 33
+Correct words: 10
+Wrong words: 2
+Score: 90
+Guesses: 12
+---
+Time taken: 64
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 57
+Correct words: 7
+Wrong words: 2
+Score: 60
+Guesses: 9
+---
+Time taken: 30
+Correct words: 4
+Wrong words: 6
+Score: 10
+Guesses: 10
+---
+Time taken: 69
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 45
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 52
+Correct words: 8
+Wrong words: 4
+Score: 60
+Guesses: 12
+---
+Time taken: 73
+Correct words: 7
+Wrong words: 6
+Score: 40
+Guesses: 13
+---
+Time taken: 41
+Correct words: 9
+Wrong words: 4
+Score: 70
+Guesses: 13
+---
+Time taken: 29
+Correct words: 8
+Wrong words: 0
+Score: 80
+Guesses: 8
+---
+Time taken: 
+Correct words: 7
+Wrong words: 4
+Score: 50
+Guesses: 11
+---
+Time taken: 
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 85
+Correct words: 11
+Wrong words: 2
+Score: 100
+Guesses: 13
+---
+Time taken: 85
+Correct words: 8
+Wrong words: 2
+Score: 70
+Guesses: 10
+---
+Time taken: 85
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Time taken: 219
+Correct words: 11
+Wrong words: 2
+Score: 100
+Guesses: 13
+---
+Time taken: 895
+Correct words: 9
+Wrong words: 6
+Score: 60
+Guesses: 15
+---
+Time taken: 895
+Correct words: 8
+Wrong words: 6
+Score: 50
+Guesses: 14
+---
+Time taken: 331
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 35
+Correct words: 5
+Wrong words: 6
+Score: 20
+Guesses: 11
+---
+Time taken: 421
+Correct words: 4
+Wrong words: 6
+Score: 10
+Guesses: 10
+---
+Time taken: 89
+Correct words: 7
+Wrong words: 6
+Score: 40
+Guesses: 13
+---
+Time taken: 122
+Correct words: 8
+Wrong words: 5
+Score: 55
+Guesses: 13
+---
+Time taken: 48
+Correct words: 3
+Wrong words: 6
+Score: 0
+Guesses: 9
+---
+Time taken: 53
+Correct words: 6
+Wrong words: 6
+Score: 30
+Guesses: 12
+---
+Name: nuke
+Time taken: 240
+Correct words: 8
+Wrong words: 6
+Score: 50
+Guesses: 14
+---
